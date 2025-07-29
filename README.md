@@ -25,8 +25,8 @@ A simple user authentication system built using **Node.js**, **Express.js**, **M
 ## 📬 Contact
 
 - **Vaibhav Bari**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavbari)  
-- 📧 Email: barj4@hmail.com  
+- 💼 Linkedin: [LinkedIn]((https://www.linkedin.com/in/vaibhav-bari-915bb5202/))  
+- 📧 Email: bariv219@gmail.com  
 - 🌐 Portfolio: [vaibhavsbari.netlify.app](https://vaibhavsbari.netlify.app) 
 
 
